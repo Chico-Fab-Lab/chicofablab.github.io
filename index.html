@@ -71,6 +71,25 @@
             width: 20px;
             height: 20px;
         }
+        /* Floating Contact Us Button */
+        .contact-button {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #4CAF50; /* Green color */
+            color: white;
+            text-decoration: none;
+            font-size: 1.5rem;
+            padding: 15px 30px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .contact-button:hover {
+            transform: translate(-50%, -50%) scale(1.1);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+        }
     </style>
 </head>
 <body>
@@ -90,6 +109,9 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Icon_of_Discord.png" alt="Discord">
     </a>
 </div>
+
+<!-- Floating Contact Us Button -->
+<a href="https://forms.gle/1FAIpQLSfwnbZU0ksIauoMpQ7OMGq902ONUvLTHq3YesLUR71ApBNslg" target="_blank" class="contact-button">Contact Us</a>
 
 <footer>
     <p>. Chico Fab Lab . 603 Orange Street . Chico, CA .</p>
