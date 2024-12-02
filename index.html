@@ -64,9 +64,6 @@
         .social-links a.youtube {
             background-color: #ff0000; /* YouTube red */
         }
-        .social-links a.discord {
-            background-color: #5865F2; /* Discord purple */
-        }
         .social-links img {
             width: 20px;
             height: 20px;
@@ -74,9 +71,9 @@
         /* Floating Contact Us Button */
         .contact-button {
             position: fixed;
-            top: 50%;
+            bottom: 20px; /* Move to the bottom */
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translateX(-50%); /* Center horizontally */
             background-color: #4CAF50; /* Green color */
             color: white;
             text-decoration: none;
@@ -87,7 +84,7 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .contact-button:hover {
-            transform: translate(-50%, -50%) scale(1.1);
+            transform: translateX(-50%) scale(1.1); /* Remove translateY for hover */
             box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
         }
     </style>
@@ -105,9 +102,6 @@
     <a href="https://www.instagram.com/chicofablab" target="_blank" class="instagram">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
     </a>
-    <a href="https://discord.gg/Uq8qGsm4" target="_blank" class="discord">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Icon_of_Discord.png" alt="Discord">
-    </a>
 </div>
 
 <!-- Floating Contact Us Button -->
@@ -119,4 +113,5 @@
 
 </body>
 </html>
+
 
