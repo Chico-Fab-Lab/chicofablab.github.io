@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="big_qrcode.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip-path-dot-color">
+      <rect
+         id="rect5407"
+         height="8"
+         width="8"
+         y="93"
+         x="16" />
+      <rect
+         id="rect5409"
+         height="8"
+         width="8"
+         y="108"
+         x="16" />
+      <rect
+         id="rect5411"
+         height="8"
+         width="8"
+         y="116"
+         x="16" />
+      <rect
+         id="rect5413"
+         height="8"
+         width="8"
+         y="124"
+         x="16" />
+      <rect
+         id="rect5415"
+         height="8"
+         width="8"
+         y="131"
+         x="16" />
+      <rect
+         id="rect5417"
+         height="8"
+         width="8"
+         y="139"
+         x="16" />
+      <rect
+         id="rect5419"
+         height="8"
+         width="8"
+         y="147"
+         x="16" />
+      <rect
+         id="rect5421"
+         height="8"
+         width="8"
+         y="155"
+         x="16" />
+      <rect
+         id="rect5423"
+         height="8"
+         width="8"
+         y="162"
+         x="16" />
+      <rect
+         id="rect5425"
+         height="8"
+         width="8"
+         y="85"
+         x="23" />
+      <rect
+         id="rect5427"
+         height="8"
+         width="8"
+         y="93"
+         x="23" />
+      <rect
+         id="rect5429"
+         height="8"
+         width="8"
+         y="100"
+         x="23" />
+      <rect
+         id="rect5431"
+         height="8"
+         width="8"
+         y="131"
+         x="23" />
+      <rect
+         id="rect5433"
+         height="8"
+         width="8"
+         y="139"
+         x="23" />
+      <rect
+         id="rect5435"
+         height="8"
+         width="8"
+         y="155"
+         x="23" />
+      <rect
+         id="rect5437"
+         height="8"
+         width="8"
+         y="170"
+         x="23" />
+      <rect
+         id="rect5439"
+         height="8"
+         width="8"
+         y="77"
+         x="31" />
+      <rect
+         id="rect5441"
+         height="8"
+         width="8"
+         y="116"
+         x="31" />
+      <rect
+         id="rect5443"
+         height="8"
+         width="8"
+         y="131"
+         x="31" />
+      <rect
+         id="rect5445"
+         height="8"
+         width="8"
+         y="147"
+         x="31" />
+      <rect
+         id="rect5447"
+         height="8"
+         width="8"
+         y="155"
+         x="31" />
+      <rect
+         id="rect5449"
+         height="8"
+         width="8"
+         y="162"
+         x="31" />
+      <rect
+         id="rect5451"
+         height="8"
+         width="8"
+         y="170"
+         x="31" />
+      <rect
+         id="rect5453"
+         height="8"
+         width="8"
+         y="93"
+         x="39" />
+      <rect
+         id="rect5455"
+         height="8"
+         width="8"
+         y="139"
+         x="39" />
+      <rect
+         id="rect5457"
+         height="8"
+         width="8"
+         y="155"
+         x="39" />
+      <rect
+         id="rect5459"
+         height="8"
+         width="8"
+         y="162"
+         x="39" />
+      <rect
+         id="rect5461"
+         height="8"
+         width="8"
+         y="77"
+         x="46" />
+      <rect
+         id="rect5463"
+         height="8"
+         width="8"
+         y="85"
+         x="46" />
+      <rect
+         id="rect5465"
+         height="8"
+         width="8"
+         y="100"
+         x="46" />
+      <rect
+         id="rect5467"
+         height="8"
+         width="8"
+         y="108"
+         x="46" />
+      <rect
+         id="rect5469"
+         height="8"
+         width="8"
+         y="116"
+         x="46" />
+      <rect
+         id="rect5471"
+         height="8"
+         width="8"
+         y="139"
+         x="46" />
+      <rect
+         id="rect5473"
+         height="8"
+         width="8"
+         y="155"
+         x="46" />
+      <rect
+         id="rect5475"
+         height="8"
+         width="8"
+         y="77"
+         x="54" />
+      <rect
+         id="rect5477"
+         height="8"
+         width="8"
+         y="93"
+         x="54" />
+      <rect
+         id="rect5479"
+         height="8"
+         width="8"
+         y="108"
+         x="54" />
+      <rect
+         id="rect5481"
+         height="8"
+         width="8"
+         y="116"
+         x="54" />
+      <rect
+         id="rect5483"
+         height="8"
+         width="8"
+         y="131"
+         x="54" />
+      <rect
+         id="rect5485"
+         height="8"
+         width="8"
+         y="139"
+         x="54" />
+      <rect
+         id="rect5487"
+         height="8"
+         width="8"
+         y="155"
+         x="54" />
+      <rect
+         id="rect5489"
+         height="8"
+         width="8"
+         y="162"
+         x="54" />
+      <rect
+         id="rect5491"
+         height="8"
+         width="8"
+         y="170"
+         x="54" />
+      <rect
+         id="rect5493"
+         height="8"
+         width="8"
+         y="77"
+         x="62" />
+      <rect
+         id="rect5495"
+         height="8"
+         width="8"
+         y="93"
+         x="62" />
+      <rect
+         id="rect5497"
+         height="8"
+         width="8"
+         y="108"
+         x="62" />
+      <rect
+         id="rect5499"
+         height="8"
+         width="8"
+         y="124"
+         x="62" />
+      <rect
+         id="rect5501"
+         height="8"
+         width="8"
+         y="139"
+         x="62" />
+      <rect
+         id="rect5503"
+         height="8"
+         width="8"
+         y="155"
+         x="62" />
+      <rect
+         id="rect5505"
+         height="8"
+         width="8"
+         y="170"
+         x="62" />
+      <rect
+         id="rect5507"
+         height="8"
+         width="8"
+         y="85"
+         x="70" />
+      <rect
+         id="rect5509"
+         height="8"
+         width="8"
+         y="93"
+         x="70" />
+      <rect
+         id="rect5511"
+         height="8"
+         width="8"
+         y="100"
+         x="70" />
+      <rect
+         id="rect5513"
+         height="8"
+         width="8"
+         y="124"
+         x="70" />
+      <rect
+         id="rect5515"
+         height="8"
+         width="8"
+         y="139"
+         x="70" />
+      <rect
+         id="rect5517"
+         height="8"
+         width="8"
+         y="147"
+         x="70" />
+      <rect
+         id="rect5519"
+         height="8"
+         width="8"
+         y="155"
+         x="70" />
+      <rect
+         id="rect5521"
+         height="8"
+         width="8"
+         y="23"
+         x="77" />
+      <rect
+         id="rect5523"
+         height="8"
+         width="8"
+         y="46"
+         x="77" />
+      <rect
+         id="rect5525"
+         height="8"
+         width="8"
+         y="62"
+         x="77" />
+      <rect
+         id="rect5527"
+         height="8"
+         width="8"
+         y="77"
+         x="77" />
+      <rect
+         id="rect5529"
+         height="8"
+         width="8"
+         y="85"
+         x="77" />
+      <rect
+         id="rect5531"
+         height="8"
+         width="8"
+         y="93"
+         x="77" />
+      <rect
+         id="rect5533"
+         height="8"
+         width="8"
+         y="108"
+         x="77" />
+      <rect
+         id="rect5535"
+         height="8"
+         width="8"
+         y="116"
+         x="77" />
+      <rect
+         id="rect5537"
+         height="8"
+         width="8"
+         y="124"
+         x="77" />
+      <rect
+         id="rect5539"
+         height="8"
+         width="8"
+         y="155"
+         x="77" />
+      <rect
+         id="rect5541"
+         height="8"
+         width="8"
+         y="178"
+         x="77" />
+      <rect
+         id="rect5543"
+         height="8"
+         width="8"
+         y="193"
+         x="77" />
+      <rect
+         id="rect5545"
+         height="8"
+         width="8"
+         y="201"
+         x="77" />
+      <rect
+         id="rect5547"
+         height="8"
+         width="8"
+         y="216"
+         x="77" />
+      <rect
+         id="rect5549"
+         height="8"
+         width="8"
+         y="31"
+         x="85" />
+      <rect
+         id="rect5551"
+         height="8"
+         width="8"
+         y="39"
+         x="85" />
+      <rect
+         id="rect5553"
+         height="8"
+         width="8"
+         y="54"
+         x="85" />
+      <rect
+         id="rect5555"
+         height="8"
+         width="8"
+         y="77"
+         x="85" />
+      <rect
+         id="rect5557"
+         height="8"
+         width="8"
+         y="85"
+         x="85" />
+      <rect
+         id="rect5559"
+         height="8"
+         width="8"
+         y="93"
+         x="85" />
+      <rect
+         id="rect5561"
+         height="8"
+         width="8"
+         y="100"
+         x="85" />
+      <rect
+         id="rect5563"
+         height="8"
+         width="8"
+         y="108"
+         x="85" />
+      <rect
+         id="rect5565"
+         height="8"
+         width="8"
+         y="116"
+         x="85" />
+      <rect
+         id="rect5567"
+         height="8"
+         width="8"
+         y="131"
+         x="85" />
+      <rect
+         id="rect5569"
+         height="8"
+         width="8"
+         y="139"
+         x="85" />
+      <rect
+         id="rect5571"
+         height="8"
+         width="8"
+         y="162"
+         x="85" />
+      <rect
+         id="rect5573"
+         height="8"
+         width="8"
+         y="170"
+         x="85" />
+      <rect
+         id="rect5575"
+         height="8"
+         width="8"
+         y="185"
+         x="85" />
+      <rect
+         id="rect5577"
+         height="8"
+         width="8"
+         y="193"
+         x="85" />
+      <rect
+         id="rect5579"
+         height="8"
+         width="8"
+         y="201"
+         x="85" />
+      <rect
+         id="rect5581"
+         height="8"
+         width="8"
+         y="209"
+         x="85" />
+      <rect
+         id="rect5583"
+         height="8"
+         width="8"
+         y="216"
+         x="85" />
+      <rect
+         id="rect5585"
+         height="8"
+         width="8"
+         y="224"
+         x="85" />
+      <rect
+         id="rect5587"
+         height="8"
+         width="8"
+         y="232"
+         x="85" />
+      <rect
+         id="rect5589"
+         height="8"
+         width="8"
+         y="16"
+         x="93" />
+      <rect
+         id="rect5591"
+         height="8"
+         width="8"
+         y="39"
+         x="93" />
+      <rect
+         id="rect5593"
+         height="8"
+         width="8"
+         y="46"
+         x="93" />
+      <rect
+         id="rect5595"
+         height="8"
+         width="8"
+         y="62"
+         x="93" />
+      <rect
+         id="rect5597"
+         height="8"
+         width="8"
+         y="70"
+         x="93" />
+      <rect
+         id="rect5599"
+         height="8"
+         width="8"
+         y="100"
+         x="93" />
+      <rect
+         id="rect5601"
+         height="8"
+         width="8"
+         y="124"
+         x="93" />
+      <rect
+         id="rect5603"
+         height="8"
+         width="8"
+         y="170"
+         x="93" />
+      <rect
+         id="rect5605"
+         height="8"
+         width="8"
+         y="178"
+         x="93" />
+      <rect
+         id="rect5607"
+         height="8"
+         width="8"
+         y="193"
+         x="93" />
+      <rect
+         id="rect5609"
+         height="8"
+         width="8"
+         y="201"
+         x="93" />
+      <rect
+         id="rect5611"
+         height="8"
+         width="8"
+         y="209"
+         x="93" />
+      <rect
+         id="rect5613"
+         height="8"
+         width="8"
+         y="232"
+         x="93" />
+      <rect
+         id="rect5615"
+         height="8"
+         width="8"
+         y="16"
+         x="100" />
+      <rect
+         id="rect5617"
+         height="8"
+         width="8"
+         y="31"
+         x="100" />
+      <rect
+         id="rect5619"
+         height="8"
+         width="8"
+         y="46"
+         x="100" />
+      <rect
+         id="rect5621"
+         height="8"
+         width="8"
+         y="54"
+         x="100" />
+      <rect
+         id="rect5623"
+         height="8"
+         width="8"
+         y="85"
+         x="100" />
+      <rect
+         id="rect5625"
+         height="8"
+         width="8"
+         y="93"
+         x="100" />
+      <rect
+         id="rect5627"
+         height="8"
+         width="8"
+         y="100"
+         x="100" />
+      <rect
+         id="rect5629"
+         height="8"
+         width="8"
+         y="124"
+         x="100" />
+      <rect
+         id="rect5631"
+         height="8"
+         width="8"
+         y="131"
+         x="100" />
+      <rect
+         id="rect5633"
+         height="8"
+         width="8"
+         y="147"
+         x="100" />
+      <rect
+         id="rect5635"
+         height="8"
+         width="8"
+         y="155"
+         x="100" />
+      <rect
+         id="rect5637"
+         height="8"
+         width="8"
+         y="178"
+         x="100" />
+      <rect
+         id="rect5639"
+         height="8"
+         width="8"
+         y="193"
+         x="100" />
+      <rect
+         id="rect5641"
+         height="8"
+         width="8"
+         y="209"
+         x="100" />
+      <rect
+         id="rect5643"
+         height="8"
+         width="8"
+         y="224"
+         x="100" />
+      <rect
+         id="rect5645"
+         height="8"
+         width="8"
+         y="232"
+         x="100" />
+      <rect
+         id="rect5647"
+         height="8"
+         width="8"
+         y="23"
+         x="108" />
+      <rect
+         id="rect5649"
+         height="8"
+         width="8"
+         y="31"
+         x="108" />
+      <rect
+         id="rect5651"
+         height="8"
+         width="8"
+         y="39"
+         x="108" />
+      <rect
+         id="rect5653"
+         height="8"
+         width="8"
+         y="46"
+         x="108" />
+      <rect
+         id="rect5655"
+         height="8"
+         width="8"
+         y="54"
+         x="108" />
+      <rect
+         id="rect5657"
+         height="8"
+         width="8"
+         y="62"
+         x="108" />
+      <rect
+         id="rect5659"
+         height="8"
+         width="8"
+         y="70"
+         x="108" />
+      <rect
+         id="rect5661"
+         height="8"
+         width="8"
+         y="85"
+         x="108" />
+      <rect
+         id="rect5663"
+         height="8"
+         width="8"
+         y="108"
+         x="108" />
+      <rect
+         id="rect5665"
+         height="8"
+         width="8"
+         y="116"
+         x="108" />
+      <rect
+         id="rect5667"
+         height="8"
+         width="8"
+         y="124"
+         x="108" />
+      <rect
+         id="rect5669"
+         height="8"
+         width="8"
+         y="139"
+         x="108" />
+      <rect
+         id="rect5671"
+         height="8"
+         width="8"
+         y="147"
+         x="108" />
+      <rect
+         id="rect5673"
+         height="8"
+         width="8"
+         y="162"
+         x="108" />
+      <rect
+         id="rect5675"
+         height="8"
+         width="8"
+         y="170"
+         x="108" />
+      <rect
+         id="rect5677"
+         height="8"
+         width="8"
+         y="193"
+         x="108" />
+      <rect
+         id="rect5679"
+         height="8"
+         width="8"
+         y="209"
+         x="108" />
+      <rect
+         id="rect5681"
+         height="8"
+         width="8"
+         y="232"
+         x="108" />
+      <rect
+         id="rect5683"
+         height="8"
+         width="8"
+         y="16"
+         x="116" />
+      <rect
+         id="rect5685"
+         height="8"
+         width="8"
+         y="31"
+         x="116" />
+      <rect
+         id="rect5687"
+         height="8"
+         width="8"
+         y="46"
+         x="116" />
+      <rect
+         id="rect5689"
+         height="8"
+         width="8"
+         y="54"
+         x="116" />
+      <rect
+         id="rect5691"
+         height="8"
+         width="8"
+         y="77"
+         x="116" />
+      <rect
+         id="rect5693"
+         height="8"
+         width="8"
+         y="93"
+         x="116" />
+      <rect
+         id="rect5695"
+         height="8"
+         width="8"
+         y="147"
+         x="116" />
+      <rect
+         id="rect5697"
+         height="8"
+         width="8"
+         y="155"
+         x="116" />
+      <rect
+         id="rect5699"
+         height="8"
+         width="8"
+         y="185"
+         x="116" />
+      <rect
+         id="rect5701"
+         height="8"
+         width="8"
+         y="201"
+         x="116" />
+      <rect
+         id="rect5703"
+         height="8"
+         width="8"
+         y="216"
+         x="116" />
+      <rect
+         id="rect5705"
+         height="8"
+         width="8"
+         y="232"
+         x="116" />
+      <rect
+         id="rect5707"
+         height="8"
+         width="8"
+         y="31"
+         x="124" />
+      <rect
+         id="rect5709"
+         height="8"
+         width="8"
+         y="39"
+         x="124" />
+      <rect
+         id="rect5711"
+         height="8"
+         width="8"
+         y="46"
+         x="124" />
+      <rect
+         id="rect5713"
+         height="8"
+         width="8"
+         y="62"
+         x="124" />
+      <rect
+         id="rect5715"
+         height="8"
+         width="8"
+         y="93"
+         x="124" />
+      <rect
+         id="rect5717"
+         height="8"
+         width="8"
+         y="108"
+         x="124" />
+      <rect
+         id="rect5719"
+         height="8"
+         width="8"
+         y="131"
+         x="124" />
+      <rect
+         id="rect5721"
+         height="8"
+         width="8"
+         y="155"
+         x="124" />
+      <rect
+         id="rect5723"
+         height="8"
+         width="8"
+         y="170"
+         x="124" />
+      <rect
+         id="rect5725"
+         height="8"
+         width="8"
+         y="185"
+         x="124" />
+      <rect
+         id="rect5727"
+         height="8"
+         width="8"
+         y="201"
+         x="124" />
+      <rect
+         id="rect5729"
+         height="8"
+         width="8"
+         y="232"
+         x="124" />
+      <rect
+         id="rect5731"
+         height="8"
+         width="8"
+         y="39"
+         x="131" />
+      <rect
+         id="rect5733"
+         height="8"
+         width="8"
+         y="46"
+         x="131" />
+      <rect
+         id="rect5735"
+         height="8"
+         width="8"
+         y="70"
+         x="131" />
+      <rect
+         id="rect5737"
+         height="8"
+         width="8"
+         y="77"
+         x="131" />
+      <rect
+         id="rect5739"
+         height="8"
+         width="8"
+         y="93"
+         x="131" />
+      <rect
+         id="rect5741"
+         height="8"
+         width="8"
+         y="131"
+         x="131" />
+      <rect
+         id="rect5743"
+         height="8"
+         width="8"
+         y="139"
+         x="131" />
+      <rect
+         id="rect5745"
+         height="8"
+         width="8"
+         y="162"
+         x="131" />
+      <rect
+         id="rect5747"
+         height="8"
+         width="8"
+         y="193"
+         x="131" />
+      <rect
+         id="rect5749"
+         height="8"
+         width="8"
+         y="209"
+         x="131" />
+      <rect
+         id="rect5751"
+         height="8"
+         width="8"
+         y="224"
+         x="131" />
+      <rect
+         id="rect5753"
+         height="8"
+         width="8"
+         y="232"
+         x="131" />
+      <rect
+         id="rect5755"
+         height="8"
+         width="8"
+         y="16"
+         x="139" />
+      <rect
+         id="rect5757"
+         height="8"
+         width="8"
+         y="46"
+         x="139" />
+      <rect
+         id="rect5759"
+         height="8"
+         width="8"
+         y="62"
+         x="139" />
+      <rect
+         id="rect5761"
+         height="8"
+         width="8"
+         y="93"
+         x="139" />
+      <rect
+         id="rect5763"
+         height="8"
+         width="8"
+         y="108"
+         x="139" />
+      <rect
+         id="rect5765"
+         height="8"
+         width="8"
+         y="131"
+         x="139" />
+      <rect
+         id="rect5767"
+         height="8"
+         width="8"
+         y="139"
+         x="139" />
+      <rect
+         id="rect5769"
+         height="8"
+         width="8"
+         y="162"
+         x="139" />
+      <rect
+         id="rect5771"
+         height="8"
+         width="8"
+         y="170"
+         x="139" />
+      <rect
+         id="rect5773"
+         height="8"
+         width="8"
+         y="193"
+         x="139" />
+      <rect
+         id="rect5775"
+         height="8"
+         width="8"
+         y="224"
+         x="139" />
+      <rect
+         id="rect5777"
+         height="8"
+         width="8"
+         y="232"
+         x="139" />
+      <rect
+         id="rect5779"
+         height="8"
+         width="8"
+         y="16"
+         x="147" />
+      <rect
+         id="rect5781"
+         height="8"
+         width="8"
+         y="23"
+         x="147" />
+      <rect
+         id="rect5783"
+         height="8"
+         width="8"
+         y="85"
+         x="147" />
+      <rect
+         id="rect5785"
+         height="8"
+         width="8"
+         y="100"
+         x="147" />
+      <rect
+         id="rect5787"
+         height="8"
+         width="8"
+         y="108"
+         x="147" />
+      <rect
+         id="rect5789"
+         height="8"
+         width="8"
+         y="147"
+         x="147" />
+      <rect
+         id="rect5791"
+         height="8"
+         width="8"
+         y="155"
+         x="147" />
+      <rect
+         id="rect5793"
+         height="8"
+         width="8"
+         y="162"
+         x="147" />
+      <rect
+         id="rect5795"
+         height="8"
+         width="8"
+         y="185"
+         x="147" />
+      <rect
+         id="rect5797"
+         height="8"
+         width="8"
+         y="193"
+         x="147" />
+      <rect
+         id="rect5799"
+         height="8"
+         width="8"
+         y="201"
+         x="147" />
+      <rect
+         id="rect5801"
+         height="8"
+         width="8"
+         y="209"
+         x="147" />
+      <rect
+         id="rect5803"
+         height="8"
+         width="8"
+         y="216"
+         x="147" />
+      <rect
+         id="rect5805"
+         height="8"
+         width="8"
+         y="232"
+         x="147" />
+      <rect
+         id="rect5807"
+         height="8"
+         width="8"
+         y="31"
+         x="155" />
+      <rect
+         id="rect5809"
+         height="8"
+         width="8"
+         y="46"
+         x="155" />
+      <rect
+         id="rect5811"
+         height="8"
+         width="8"
+         y="62"
+         x="155" />
+      <rect
+         id="rect5813"
+         height="8"
+         width="8"
+         y="77"
+         x="155" />
+      <rect
+         id="rect5815"
+         height="8"
+         width="8"
+         y="93"
+         x="155" />
+      <rect
+         id="rect5817"
+         height="8"
+         width="8"
+         y="131"
+         x="155" />
+      <rect
+         id="rect5819"
+         height="8"
+         width="8"
+         y="155"
+         x="155" />
+      <rect
+         id="rect5821"
+         height="8"
+         width="8"
+         y="162"
+         x="155" />
+      <rect
+         id="rect5823"
+         height="8"
+         width="8"
+         y="201"
+         x="155" />
+      <rect
+         id="rect5825"
+         height="8"
+         width="8"
+         y="216"
+         x="155" />
+      <rect
+         id="rect5827"
+         height="8"
+         width="8"
+         y="232"
+         x="155" />
+      <rect
+         id="rect5829"
+         height="8"
+         width="8"
+         y="31"
+         x="162" />
+      <rect
+         id="rect5831"
+         height="8"
+         width="8"
+         y="39"
+         x="162" />
+      <rect
+         id="rect5833"
+         height="8"
+         width="8"
+         y="46"
+         x="162" />
+      <rect
+         id="rect5835"
+         height="8"
+         width="8"
+         y="70"
+         x="162" />
+      <rect
+         id="rect5837"
+         height="8"
+         width="8"
+         y="77"
+         x="162" />
+      <rect
+         id="rect5839"
+         height="8"
+         width="8"
+         y="85"
+         x="162" />
+      <rect
+         id="rect5841"
+         height="8"
+         width="8"
+         y="93"
+         x="162" />
+      <rect
+         id="rect5843"
+         height="8"
+         width="8"
+         y="100"
+         x="162" />
+      <rect
+         id="rect5845"
+         height="8"
+         width="8"
+         y="108"
+         x="162" />
+      <rect
+         id="rect5847"
+         height="8"
+         width="8"
+         y="116"
+         x="162" />
+      <rect
+         id="rect5849"
+         height="8"
+         width="8"
+         y="124"
+         x="162" />
+      <rect
+         id="rect5851"
+         height="8"
+         width="8"
+         y="131"
+         x="162" />
+      <rect
+         id="rect5853"
+         height="8"
+         width="8"
+         y="139"
+         x="162" />
+      <rect
+         id="rect5855"
+         height="8"
+         width="8"
+         y="147"
+         x="162" />
+      <rect
+         id="rect5857"
+         height="8"
+         width="8"
+         y="155"
+         x="162" />
+      <rect
+         id="rect5859"
+         height="8"
+         width="8"
+         y="162"
+         x="162" />
+      <rect
+         id="rect5861"
+         height="8"
+         width="8"
+         y="170"
+         x="162" />
+      <rect
+         id="rect5863"
+         height="8"
+         width="8"
+         y="201"
+         x="162" />
+      <rect
+         id="rect5865"
+         height="8"
+         width="8"
+         y="224"
+         x="162" />
+      <rect
+         id="rect5867"
+         height="8"
+         width="8"
+         y="232"
+         x="162" />
+      <rect
+         id="rect5869"
+         height="8"
+         width="8"
+         y="16"
+         x="170" />
+      <rect
+         id="rect5871"
+         height="8"
+         width="8"
+         y="23"
+         x="170" />
+      <rect
+         id="rect5873"
+         height="8"
+         width="8"
+         y="31"
+         x="170" />
+      <rect
+         id="rect5875"
+         height="8"
+         width="8"
+         y="39"
+         x="170" />
+      <rect
+         id="rect5877"
+         height="8"
+         width="8"
+         y="54"
+         x="170" />
+      <rect
+         id="rect5879"
+         height="8"
+         width="8"
+         y="62"
+         x="170" />
+      <rect
+         id="rect5881"
+         height="8"
+         width="8"
+         y="77"
+         x="170" />
+      <rect
+         id="rect5883"
+         height="8"
+         width="8"
+         y="85"
+         x="170" />
+      <rect
+         id="rect5885"
+         height="8"
+         width="8"
+         y="93"
+         x="170" />
+      <rect
+         id="rect5887"
+         height="8"
+         width="8"
+         y="100"
+         x="170" />
+      <rect
+         id="rect5889"
+         height="8"
+         width="8"
+         y="147"
+         x="170" />
+      <rect
+         id="rect5891"
+         height="8"
+         width="8"
+         y="170"
+         x="170" />
+      <rect
+         id="rect5893"
+         height="8"
+         width="8"
+         y="178"
+         x="170" />
+      <rect
+         id="rect5895"
+         height="8"
+         width="8"
+         y="185"
+         x="170" />
+      <rect
+         id="rect5897"
+         height="8"
+         width="8"
+         y="193"
+         x="170" />
+      <rect
+         id="rect5899"
+         height="8"
+         width="8"
+         y="201"
+         x="170" />
+      <rect
+         id="rect5901"
+         height="8"
+         width="8"
+         y="209"
+         x="170" />
+      <rect
+         id="rect5903"
+         height="8"
+         width="8"
+         y="232"
+         x="170" />
+      <rect
+         id="rect5905"
+         height="8"
+         width="8"
+         y="77"
+         x="178" />
+      <rect
+         id="rect5907"
+         height="8"
+         width="8"
+         y="85"
+         x="178" />
+      <rect
+         id="rect5909"
+         height="8"
+         width="8"
+         y="93"
+         x="178" />
+      <rect
+         id="rect5911"
+         height="8"
+         width="8"
+         y="100"
+         x="178" />
+      <rect
+         id="rect5913"
+         height="8"
+         width="8"
+         y="108"
+         x="178" />
+      <rect
+         id="rect5915"
+         height="8"
+         width="8"
+         y="116"
+         x="178" />
+      <rect
+         id="rect5917"
+         height="8"
+         width="8"
+         y="131"
+         x="178" />
+      <rect
+         id="rect5919"
+         height="8"
+         width="8"
+         y="139"
+         x="178" />
+      <rect
+         id="rect5921"
+         height="8"
+         width="8"
+         y="155"
+         x="178" />
+      <rect
+         id="rect5923"
+         height="8"
+         width="8"
+         y="162"
+         x="178" />
+      <rect
+         id="rect5925"
+         height="8"
+         width="8"
+         y="170"
+         x="178" />
+      <rect
+         id="rect5927"
+         height="8"
+         width="8"
+         y="201"
+         x="178" />
+      <rect
+         id="rect5929"
+         height="8"
+         width="8"
+         y="216"
+         x="178" />
+      <rect
+         id="rect5931"
+         height="8"
+         width="8"
+         y="232"
+         x="178" />
+      <rect
+         id="rect5933"
+         height="8"
+         width="8"
+         y="93"
+         x="185" />
+      <rect
+         id="rect5935"
+         height="8"
+         width="8"
+         y="116"
+         x="185" />
+      <rect
+         id="rect5937"
+         height="8"
+         width="8"
+         y="131"
+         x="185" />
+      <rect
+         id="rect5939"
+         height="8"
+         width="8"
+         y="147"
+         x="185" />
+      <rect
+         id="rect5941"
+         height="8"
+         width="8"
+         y="162"
+         x="185" />
+      <rect
+         id="rect5943"
+         height="8"
+         width="8"
+         y="170"
+         x="185" />
+      <rect
+         id="rect5945"
+         height="8"
+         width="8"
+         y="185"
+         x="185" />
+      <rect
+         id="rect5947"
+         height="8"
+         width="8"
+         y="201"
+         x="185" />
+      <rect
+         id="rect5949"
+         height="8"
+         width="8"
+         y="232"
+         x="185" />
+      <rect
+         id="rect5951"
+         height="8"
+         width="8"
+         y="108"
+         x="193" />
+      <rect
+         id="rect5953"
+         height="8"
+         width="8"
+         y="116"
+         x="193" />
+      <rect
+         id="rect5955"
+         height="8"
+         width="8"
+         y="124"
+         x="193" />
+      <rect
+         id="rect5957"
+         height="8"
+         width="8"
+         y="131"
+         x="193" />
+      <rect
+         id="rect5959"
+         height="8"
+         width="8"
+         y="139"
+         x="193" />
+      <rect
+         id="rect5961"
+         height="8"
+         width="8"
+         y="147"
+         x="193" />
+      <rect
+         id="rect5963"
+         height="8"
+         width="8"
+         y="155"
+         x="193" />
+      <rect
+         id="rect5965"
+         height="8"
+         width="8"
+         y="162"
+         x="193" />
+      <rect
+         id="rect5967"
+         height="8"
+         width="8"
+         y="170"
+         x="193" />
+      <rect
+         id="rect5969"
+         height="8"
+         width="8"
+         y="201"
+         x="193" />
+      <rect
+         id="rect5971"
+         height="8"
+         width="8"
+         y="209"
+         x="193" />
+      <rect
+         id="rect5973"
+         height="8"
+         width="8"
+         y="224"
+         x="193" />
+      <rect
+         id="rect5975"
+         height="8"
+         width="8"
+         y="77"
+         x="201" />
+      <rect
+         id="rect5977"
+         height="8"
+         width="8"
+         y="108"
+         x="201" />
+      <rect
+         id="rect5979"
+         height="8"
+         width="8"
+         y="155"
+         x="201" />
+      <rect
+         id="rect5981"
+         height="8"
+         width="8"
+         y="162"
+         x="201" />
+      <rect
+         id="rect5983"
+         height="8"
+         width="8"
+         y="170"
+         x="201" />
+      <rect
+         id="rect5985"
+         height="8"
+         width="8"
+         y="178"
+         x="201" />
+      <rect
+         id="rect5987"
+         height="8"
+         width="8"
+         y="185"
+         x="201" />
+      <rect
+         id="rect5989"
+         height="8"
+         width="8"
+         y="193"
+         x="201" />
+      <rect
+         id="rect5991"
+         height="8"
+         width="8"
+         y="201"
+         x="201" />
+      <rect
+         id="rect5993"
+         height="8"
+         width="8"
+         y="100"
+         x="209" />
+      <rect
+         id="rect5995"
+         height="8"
+         width="8"
+         y="124"
+         x="209" />
+      <rect
+         id="rect5997"
+         height="8"
+         width="8"
+         y="139"
+         x="209" />
+      <rect
+         id="rect5999"
+         height="8"
+         width="8"
+         y="193"
+         x="209" />
+      <rect
+         id="rect6001"
+         height="8"
+         width="8"
+         y="224"
+         x="209" />
+      <rect
+         id="rect6003"
+         height="8"
+         width="8"
+         y="85"
+         x="216" />
+      <rect
+         id="rect6005"
+         height="8"
+         width="8"
+         y="93"
+         x="216" />
+      <rect
+         id="rect6007"
+         height="8"
+         width="8"
+         y="108"
+         x="216" />
+      <rect
+         id="rect6009"
+         height="8"
+         width="8"
+         y="116"
+         x="216" />
+      <rect
+         id="rect6011"
+         height="8"
+         width="8"
+         y="124"
+         x="216" />
+      <rect
+         id="rect6013"
+         height="8"
+         width="8"
+         y="139"
+         x="216" />
+      <rect
+         id="rect6015"
+         height="8"
+         width="8"
+         y="155"
+         x="216" />
+      <rect
+         id="rect6017"
+         height="8"
+         width="8"
+         y="162"
+         x="216" />
+      <rect
+         id="rect6019"
+         height="8"
+         width="8"
+         y="170"
+         x="216" />
+      <rect
+         id="rect6021"
+         height="8"
+         width="8"
+         y="178"
+         x="216" />
+      <rect
+         id="rect6023"
+         height="8"
+         width="8"
+         y="216"
+         x="216" />
+      <rect
+         id="rect6025"
+         height="8"
+         width="8"
+         y="224"
+         x="216" />
+      <rect
+         id="rect6027"
+         height="8"
+         width="8"
+         y="232"
+         x="216" />
+      <rect
+         id="rect6029"
+         height="8"
+         width="8"
+         y="77"
+         x="224" />
+      <rect
+         id="rect6031"
+         height="8"
+         width="8"
+         y="85"
+         x="224" />
+      <rect
+         id="rect6033"
+         height="8"
+         width="8"
+         y="100"
+         x="224" />
+      <rect
+         id="rect6035"
+         height="8"
+         width="8"
+         y="108"
+         x="224" />
+      <rect
+         id="rect6037"
+         height="8"
+         width="8"
+         y="147"
+         x="224" />
+      <rect
+         id="rect6039"
+         height="8"
+         width="8"
+         y="193"
+         x="224" />
+      <rect
+         id="rect6041"
+         height="8"
+         width="8"
+         y="209"
+         x="224" />
+      <rect
+         id="rect6043"
+         height="8"
+         width="8"
+         y="224"
+         x="224" />
+      <rect
+         id="rect6045"
+         height="8"
+         width="8"
+         y="232"
+         x="224" />
+      <rect
+         id="rect6047"
+         height="8"
+         width="8"
+         y="108"
+         x="232" />
+      <rect
+         id="rect6049"
+         height="8"
+         width="8"
+         y="131"
+         x="232" />
+      <rect
+         id="rect6051"
+         height="8"
+         width="8"
+         y="147"
+         x="232" />
+      <rect
+         id="rect6053"
+         height="8"
+         width="8"
+         y="162"
+         x="232" />
+      <rect
+         id="rect6055"
+         height="8"
+         width="8"
+         y="170"
+         x="232" />
+      <rect
+         id="rect6057"
+         height="8"
+         width="8"
+         y="178"
+         x="232" />
+      <rect
+         id="rect6059"
+         height="8"
+         width="8"
+         y="185"
+         x="232" />
+      <rect
+         id="rect6061"
+         height="8"
+         width="8"
+         y="201"
+         x="232" />
+      <rect
+         id="rect6063"
+         height="8"
+         width="8"
+         y="209"
+         x="232" />
+      <rect
+         id="rect6065"
+         height="8"
+         width="8"
+         y="224"
+         x="232" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-square-color-0-0">
+      <rect
+         id="rect6068"
+         height="8"
+         width="8"
+         y="16"
+         x="16" />
+      <rect
+         id="rect6070"
+         height="8"
+         width="8"
+         y="23"
+         x="16" />
+      <rect
+         id="rect6072"
+         height="8"
+         width="8"
+         y="31"
+         x="16" />
+      <rect
+         id="rect6074"
+         height="8"
+         width="8"
+         y="39"
+         x="16" />
+      <rect
+         id="rect6076"
+         height="8"
+         width="8"
+         y="46"
+         x="16" />
+      <rect
+         id="rect6078"
+         height="8"
+         width="8"
+         y="54"
+         x="16" />
+      <rect
+         id="rect6080"
+         height="8"
+         width="8"
+         y="62"
+         x="16" />
+      <rect
+         id="rect6082"
+         height="8"
+         width="8"
+         y="16"
+         x="23" />
+      <rect
+         id="rect6084"
+         height="8"
+         width="8"
+         y="62"
+         x="23" />
+      <rect
+         id="rect6086"
+         height="8"
+         width="8"
+         y="16"
+         x="31" />
+      <rect
+         id="rect6088"
+         height="8"
+         width="8"
+         y="62"
+         x="31" />
+      <rect
+         id="rect6090"
+         height="8"
+         width="8"
+         y="16"
+         x="39" />
+      <rect
+         id="rect6092"
+         height="8"
+         width="8"
+         y="62"
+         x="39" />
+      <rect
+         id="rect6094"
+         height="8"
+         width="8"
+         y="16"
+         x="46" />
+      <rect
+         id="rect6096"
+         height="8"
+         width="8"
+         y="62"
+         x="46" />
+      <rect
+         id="rect6098"
+         height="8"
+         width="8"
+         y="16"
+         x="54" />
+      <rect
+         id="rect6100"
+         height="8"
+         width="8"
+         y="62"
+         x="54" />
+      <rect
+         id="rect6102"
+         height="8"
+         width="8"
+         y="16"
+         x="62" />
+      <rect
+         id="rect6104"
+         height="8"
+         width="8"
+         y="23"
+         x="62" />
+      <rect
+         id="rect6106"
+         height="8"
+         width="8"
+         y="31"
+         x="62" />
+      <rect
+         id="rect6108"
+         height="8"
+         width="8"
+         y="39"
+         x="62" />
+      <rect
+         id="rect6110"
+         height="8"
+         width="8"
+         y="46"
+         x="62" />
+      <rect
+         id="rect6112"
+         height="8"
+         width="8"
+         y="54"
+         x="62" />
+      <rect
+         id="rect6114"
+         height="8"
+         width="8"
+         y="62"
+         x="62" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-dot-color-0-0">
+      <rect
+         id="rect6117"
+         height="8"
+         width="8"
+         y="31"
+         x="31" />
+      <rect
+         id="rect6119"
+         height="8"
+         width="8"
+         y="39"
+         x="31" />
+      <rect
+         id="rect6121"
+         height="8"
+         width="8"
+         y="46"
+         x="31" />
+      <rect
+         id="rect6123"
+         height="8"
+         width="8"
+         y="31"
+         x="39" />
+      <rect
+         id="rect6125"
+         height="8"
+         width="8"
+         y="39"
+         x="39" />
+      <rect
+         id="rect6127"
+         height="8"
+         width="8"
+         y="46"
+         x="39" />
+      <rect
+         id="rect6129"
+         height="8"
+         width="8"
+         y="31"
+         x="46" />
+      <rect
+         id="rect6131"
+         height="8"
+         width="8"
+         y="39"
+         x="46" />
+      <rect
+         id="rect6133"
+         height="8"
+         width="8"
+         y="46"
+         x="46" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-square-color-1-0">
+      <rect
+         id="rect6136"
+         height="8"
+         width="8"
+         y="16"
+         x="185" />
+      <rect
+         id="rect6138"
+         height="8"
+         width="8"
+         y="23"
+         x="185" />
+      <rect
+         id="rect6140"
+         height="8"
+         width="8"
+         y="31"
+         x="185" />
+      <rect
+         id="rect6142"
+         height="8"
+         width="8"
+         y="39"
+         x="185" />
+      <rect
+         id="rect6144"
+         height="8"
+         width="8"
+         y="46"
+         x="185" />
+      <rect
+         id="rect6146"
+         height="8"
+         width="8"
+         y="54"
+         x="185" />
+      <rect
+         id="rect6148"
+         height="8"
+         width="8"
+         y="62"
+         x="185" />
+      <rect
+         id="rect6150"
+         height="8"
+         width="8"
+         y="16"
+         x="193" />
+      <rect
+         id="rect6152"
+         height="8"
+         width="8"
+         y="62"
+         x="193" />
+      <rect
+         id="rect6154"
+         height="8"
+         width="8"
+         y="16"
+         x="201" />
+      <rect
+         id="rect6156"
+         height="8"
+         width="8"
+         y="62"
+         x="201" />
+      <rect
+         id="rect6158"
+         height="8"
+         width="8"
+         y="16"
+         x="209" />
+      <rect
+         id="rect6160"
+         height="8"
+         width="8"
+         y="62"
+         x="209" />
+      <rect
+         id="rect6162"
+         height="8"
+         width="8"
+         y="16"
+         x="216" />
+      <rect
+         id="rect6164"
+         height="8"
+         width="8"
+         y="62"
+         x="216" />
+      <rect
+         id="rect6166"
+         height="8"
+         width="8"
+         y="16"
+         x="224" />
+      <rect
+         id="rect6168"
+         height="8"
+         width="8"
+         y="62"
+         x="224" />
+      <rect
+         id="rect6170"
+         height="8"
+         width="8"
+         y="16"
+         x="232" />
+      <rect
+         id="rect6172"
+         height="8"
+         width="8"
+         y="23"
+         x="232" />
+      <rect
+         id="rect6174"
+         height="8"
+         width="8"
+         y="31"
+         x="232" />
+      <rect
+         id="rect6176"
+         height="8"
+         width="8"
+         y="39"
+         x="232" />
+      <rect
+         id="rect6178"
+         height="8"
+         width="8"
+         y="46"
+         x="232" />
+      <rect
+         id="rect6180"
+         height="8"
+         width="8"
+         y="54"
+         x="232" />
+      <rect
+         id="rect6182"
+         height="8"
+         width="8"
+         y="62"
+         x="232" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-dot-color-1-0">
+      <rect
+         id="rect6185"
+         height="8"
+         width="8"
+         y="31"
+         x="201" />
+      <rect
+         id="rect6187"
+         height="8"
+         width="8"
+         y="39"
+         x="201" />
+      <rect
+         id="rect6189"
+         height="8"
+         width="8"
+         y="46"
+         x="201" />
+      <rect
+         id="rect6191"
+         height="8"
+         width="8"
+         y="31"
+         x="209" />
+      <rect
+         id="rect6193"
+         height="8"
+         width="8"
+         y="39"
+         x="209" />
+      <rect
+         id="rect6195"
+         height="8"
+         width="8"
+         y="46"
+         x="209" />
+      <rect
+         id="rect6197"
+         height="8"
+         width="8"
+         y="31"
+         x="216" />
+      <rect
+         id="rect6199"
+         height="8"
+         width="8"
+         y="39"
+         x="216" />
+      <rect
+         id="rect6201"
+         height="8"
+         width="8"
+         y="46"
+         x="216" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-square-color-0-1">
+      <rect
+         id="rect6204"
+         height="8"
+         width="8"
+         y="185"
+         x="16" />
+      <rect
+         id="rect6206"
+         height="8"
+         width="8"
+         y="193"
+         x="16" />
+      <rect
+         id="rect6208"
+         height="8"
+         width="8"
+         y="201"
+         x="16" />
+      <rect
+         id="rect6210"
+         height="8"
+         width="8"
+         y="209"
+         x="16" />
+      <rect
+         id="rect6212"
+         height="8"
+         width="8"
+         y="216"
+         x="16" />
+      <rect
+         id="rect6214"
+         height="8"
+         width="8"
+         y="224"
+         x="16" />
+      <rect
+         id="rect6216"
+         height="8"
+         width="8"
+         y="232"
+         x="16" />
+      <rect
+         id="rect6218"
+         height="8"
+         width="8"
+         y="185"
+         x="23" />
+      <rect
+         id="rect6220"
+         height="8"
+         width="8"
+         y="232"
+         x="23" />
+      <rect
+         id="rect6222"
+         height="8"
+         width="8"
+         y="185"
+         x="31" />
+      <rect
+         id="rect6224"
+         height="8"
+         width="8"
+         y="232"
+         x="31" />
+      <rect
+         id="rect6226"
+         height="8"
+         width="8"
+         y="185"
+         x="39" />
+      <rect
+         id="rect6228"
+         height="8"
+         width="8"
+         y="232"
+         x="39" />
+      <rect
+         id="rect6230"
+         height="8"
+         width="8"
+         y="185"
+         x="46" />
+      <rect
+         id="rect6232"
+         height="8"
+         width="8"
+         y="232"
+         x="46" />
+      <rect
+         id="rect6234"
+         height="8"
+         width="8"
+         y="185"
+         x="54" />
+      <rect
+         id="rect6236"
+         height="8"
+         width="8"
+         y="232"
+         x="54" />
+      <rect
+         id="rect6238"
+         height="8"
+         width="8"
+         y="185"
+         x="62" />
+      <rect
+         id="rect6240"
+         height="8"
+         width="8"
+         y="193"
+         x="62" />
+      <rect
+         id="rect6242"
+         height="8"
+         width="8"
+         y="201"
+         x="62" />
+      <rect
+         id="rect6244"
+         height="8"
+         width="8"
+         y="209"
+         x="62" />
+      <rect
+         id="rect6246"
+         height="8"
+         width="8"
+         y="216"
+         x="62" />
+      <rect
+         id="rect6248"
+         height="8"
+         width="8"
+         y="224"
+         x="62" />
+      <rect
+         id="rect6250"
+         height="8"
+         width="8"
+         y="232"
+         x="62" />
+    </clipPath>
+    <clipPath
+       id="clip-path-corners-dot-color-0-1">
+      <rect
+         id="rect6253"
+         height="8"
+         width="8"
+         y="201"
+         x="31" />
+      <rect
+         id="rect6255"
+         height="8"
+         width="8"
+         y="209"
+         x="31" />
+      <rect
+         id="rect6257"
+         height="8"
+         width="8"
+         y="216"
+         x="31" />
+      <rect
+         id="rect6259"
+         height="8"
+         width="8"
+         y="201"
+         x="39" />
+      <rect
+         id="rect6261"
+         height="8"
+         width="8"
+         y="209"
+         x="39" />
+      <rect
+         id="rect6263"
+         height="8"
+         width="8"
+         y="216"
+         x="39" />
+      <rect
+         id="rect6265"
+         height="8"
+         width="8"
+         y="201"
+         x="46" />
+      <rect
+         id="rect6267"
+         height="8"
+         width="8"
+         y="209"
+         x="46" />
+      <rect
+         id="rect6269"
+         height="8"
+         width="8"
+         y="216"
+         x="46" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="678.8994"
+     inkscape:cy="432.99743"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1360"
+     inkscape:window-height="697"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)">
+    <g
+       id="g6740"
+       transform="matrix(0.84335938,0,0,0.84335938,0.75595288,49.349998)">
+      <rect
+         id="rect6274"
+         clip-path="url('#clip-path-background-color')"
+         width="256"
+         height="256"
+         y="0"
+         x="0"
+         style="fill:#ffffff" />
+      <rect
+         id="rect6276"
+         clip-path="url(#clip-path-dot-color)"
+         width="224"
+         height="224"
+         y="16"
+         x="16"
+         style="fill:#000000" />
+      <rect
+         id="rect6278"
+         clip-path="url(#clip-path-corners-square-color-0-0)"
+         width="55"
+         height="55"
+         y="16"
+         x="16"
+         style="fill:#000000" />
+      <rect
+         id="rect6280"
+         clip-path="url(#clip-path-corners-dot-color-0-0)"
+         width="24"
+         height="24"
+         y="31"
+         x="31"
+         style="fill:#000000" />
+      <rect
+         id="rect6282"
+         clip-path="url(#clip-path-corners-square-color-1-0)"
+         width="55"
+         height="55"
+         y="16"
+         x="185"
+         style="fill:#000000" />
+      <rect
+         id="rect6284"
+         clip-path="url(#clip-path-corners-dot-color-1-0)"
+         width="24"
+         height="24"
+         y="31"
+         x="201"
+         style="fill:#000000" />
+      <rect
+         id="rect6286"
+         clip-path="url(#clip-path-corners-square-color-0-1)"
+         width="55"
+         height="55"
+         y="185"
+         x="16"
+         style="fill:#000000" />
+      <rect
+         id="rect6288"
+         clip-path="url(#clip-path-corners-dot-color-0-1)"
+         width="24"
+         height="24"
+         y="201"
+         x="31"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>
